@@ -1,0 +1,1 @@
+console.log('label component use-text-component')

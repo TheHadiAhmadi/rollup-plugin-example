@@ -1,0 +1,1 @@
+console.log('input component use-label-component, use-deeply-component')
